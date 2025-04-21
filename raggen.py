@@ -17,7 +17,7 @@ if not api_key:
 os.environ["GOOGLE_API_KEY"] = api_key
 
 # Initialize Gemini LLM
-llm = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.4)
+llm = ChatGoogleGenerativeAI(model="models/gemini-2.0-flash", temperature=0.4)
 
 # Prompt template with persona, tone, and depth
 template = """
