@@ -1,0 +1,11 @@
+timestamp,prompt,persona,tone,depth,feedback
+2025-04-23 13:54:43.220214,"Okay, here's the prompt I'd use to get an LLM to explain machine learning in a way that's easy for a student to understand:
+
+**Prompt:**
+
+""Explain how machine learning works in simple terms, like you're explaining it to a middle school student. Focus on the basic idea: how a computer learns from data without being explicitly programmed. Use an example, like teaching a computer to recognize pictures of cats. Avoid technical jargon as much as possible. Keep it brief and easy to follow.""",Student,simple,basic,👌 Okay
+2025-04-23 13:55:06.592409,"Okay, here's the prompt I'd use to get an LLM to explain machine learning in a simple, developer-friendly way:
+
+**Prompt:**
+
+""Explain how machine learning works in simple terms, like you're talking to a new developer. Focus on the core concepts: training data, algorithms, models, and prediction. Avoid overly complex math or jargon. Give a basic overview of supervised and unsupervised learning with examples. Keep it concise and practical.""",Developer,simple,basic,👎 Needs Improvement
